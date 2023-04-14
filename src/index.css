@@ -765,6 +765,12 @@ button {
   font-size: var(--font-size-xs2);
 }
 
+.section-code-details {
+  display: flex;
+  align-items: center;
+  gap: var(--gap);
+}
+
 /* MEDIA QUERY */
 @media screen and (min-width: 768px){
   .section-title {
